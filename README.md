@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [LeeRJennings@outlook.com](mailto:LeeRJennings@outlook.com)
-* 🚀  I'm currently working on [If I Fitz](https://github.com/LeeRJennings/If-I-Fitz)
+* 🚀  I'm currently working on [Pick Up And Play](https://github.com/LeeRJennings/PickUpAndPlayFullStack)
 * 🧠  I'm learning C#/.NET
 * ⚡  If you've got a kegerator and it's not working right, I can fix it.
 
